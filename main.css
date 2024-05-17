@@ -243,7 +243,7 @@ h2 {
 }
 
 .main_info_product_center>div>div {
-    background-image: url('/images/product.png');
+    background-image: url('./images/product.png');
     width: 250px;
     height: 250px;
     background-repeat: no-repeat;
@@ -594,7 +594,7 @@ h2 {
 .products_add_section {
     height: 100vh;
     width: 100%;
-    background-image: url(/images/blue_bg.png);
+    background-image: url('./images/blue_bg.png');
     background-position: center;
     background-size: 250% 100%;
     background-repeat: no-repeat;
@@ -1073,7 +1073,7 @@ h2 {
 
 .fotter {
 
-    background-image: url(/images/blue_bg.png);
+    background-image: url('./images/blue_bg.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: 150%;
@@ -1098,7 +1098,7 @@ h2 {
    
 
 .fotter_animation{
-    background-image: url(/images/blue_bg.png);
+    background-image: url('./images/blue_bg.png');
     background-position: top;
     background-repeat: no-repeat;
     height: 50px;
